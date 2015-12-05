@@ -1,5 +1,5 @@
 <div id="footer">
-    <p>Copyright (c) 2015 Stefan Nikolov TM</p>
+    <p>Copyright &reg 2015 Yani Pirgov &reg</p>
 </div>
 </div>
 </body>

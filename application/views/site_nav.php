@@ -1,5 +1,5 @@
 <body>
-<center><h1>My first blog in CI</h1></center>
+<center><h1>Yani's Blog In CI</h1></center>
 <div id="container">
     <!-- navigation -->
         <!--
